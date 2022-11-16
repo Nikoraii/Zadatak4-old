@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOsoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba>
+    <Ime>Jovan</Ime>
+    <Prezime>Jovanovic</Prezime>
+    <RadnoMesto>Beograd</RadnoMesto>
+    <GodisnjiPrihodi>250350</GodisnjiPrihodi>
+  </Osoba>
+  <Osoba>
+    <Ime>Marko</Ime>
+    <Prezime>Markovic</Prezime>
+    <RadnoMesto>Novi Sad</RadnoMesto>
+    <GodisnjiPrihodi>175000</GodisnjiPrihodi>
+  </Osoba>
+  <Osoba>
+    <Ime>Ivana</Ime>
+    <Prezime>Ivanovic</Prezime>
+    <RadnoMesto>Beograd</RadnoMesto>
+    <GodisnjiPrihodi>193000</GodisnjiPrihodi>
+  </Osoba>
+  <Osoba>
+    <Ime>Petar</Ime>
+    <Prezime>Petrovic</Prezime>
+    <RadnoMesto>Beograd</RadnoMesto>
+    <GodisnjiPrihodi>265000</GodisnjiPrihodi>
+  </Osoba>
+  <Osoba>
+    <Ime>Ana</Ime>
+    <Prezime>Anic</Prezime>
+    <RadnoMesto>Zrenjanin</RadnoMesto>
+    <GodisnjiPrihodi>384500</GodisnjiPrihodi>
+  </Osoba>
+</ArrayOfOsoba>
